@@ -1,44 +1,28 @@
-# Your Project Name
+# BCNC User Album
 
-A short description of your project goes here.
-
-[![Build Status](https://travis-ci.org/yourusername/yourproject.svg?branch=main)](https://travis-ci.org/yourusername/yourproject)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+This project was developed in response to a request from BCNC to assess knowledge of object-oriented programming 
+principles and the Java language. The project leverages the Spring WebFlux framework for building reactive,
+non-blocking applications and utilizes Gradle as the dependency management tool.
 
 ## Introduction
 
-Provide a brief introduction to your project. Explain what it does, why it is useful, and what makes it unique.
+The project serves as a demonstration of proficiency in object-oriented programming (OOP) and showcases the use of the 
+Java programming language in conjunction with Spring WebFlux, a powerful framework for building asynchronous.
+
+## Key Features
+- Utilizes Java, an object-oriented programming language, to demonstrate knowledge of OOP principles.
+- Implements Spring WebFlux for building reactive, non-blocking applications.
+- Manages project dependencies efficiently using Gradle.
 
 ## Getting Started
 
-Explain how to get started with your project. This may include installation instructions, prerequisites, and basic usage.
-
-### Prerequisites
-
-- Java 17+
-- Gradle
-
-### Installation
-
-Provide detailed steps to install your project. You can include code snippets or commands. For example:
+To explore and run this project locally, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone  https://github.com/crinnger/worktestproject-bcncalbum.git
+   cd bcncalbum
 
 2. Build
    ```bash
@@ -47,3 +31,4 @@ Provide detailed steps to install your project. You can include code snippets or
 3. RUN
    ```bash
    java -jar bcncalbum.jar
+
